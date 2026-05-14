@@ -1,4 +1,4 @@
-
+Bartender for macOS rare Helper: file-archiving & CPU-monitoring is the best Bartender for macOS helper, featuring file-archiving and CPU-monitoring. Safe, efficient, and
 
 
 
